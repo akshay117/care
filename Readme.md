@@ -1,1 +1,1 @@
-# A full fledged springboot application
+# Prototype
